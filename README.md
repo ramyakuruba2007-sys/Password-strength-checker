@@ -1,1 +1,1 @@
-my simple project to practice python 
+My simple project to practice python programming 
